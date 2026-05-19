@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "803362916765",
+    "firebase_url": "https://praktik-firebase-database-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "praktik-firebase-database",
+    "storage_bucket": "praktik-firebase-database.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803362916765:android:eefa27aaee5bc3f36f8774",
+        "android_client_info": {
+          "package_name": "com.example.apb_maps_and_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVUcc3S8q083xdQtsSDeCq7jVwc3Z1hdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
